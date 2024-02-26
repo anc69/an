@@ -25672,7 +25672,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'PT Sans',sans-serif;
+  font-family: 'Maven Pro';
 }
 h1,
 h2,
@@ -25680,7 +25680,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Comfortaa,cursive;
+  font-family: 'Maven Pro';
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -25701,10 +25701,10 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'PT Sans',sans-serif !important;
+  font-family: 'Maven Pro' !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: Comfortaa,cursive !important;
+  font-family: 'Maven Pro' !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -42085,27 +42085,27 @@ a.u-link.u-text-hover-grey-90:hover {
         h1.u-title
         {
         font-weight: 400;
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 4.5rem;
         line-height: 1.1;
         }
         h2.u-subtitle
         {
         font-weight: 400;
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 2.25rem;
         line-height: 1.1;
         }
         h1:not(.u-title)
         {
         font-weight: 400;
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 3rem;
         line-height: 1.1;
         }
         h2:not(.u-subtitle)
         {
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 3rem;
         line-height: 1.1;
         text-transform: uppercase;
@@ -42125,13 +42125,13 @@ a.u-link.u-text-hover-grey-90:hover {
         h4
         {
         font-weight: 400;
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 1.5rem;
         line-height: 1.2;
         }
         h5
         {
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 1.25rem;
         line-height: 1.2;
         text-transform: uppercase;
@@ -42139,7 +42139,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h6
         {
-        font-family: Comfortaa,cursive;
+        font-family: 'Maven Pro';
         font-size: 1.125rem;
         line-height: 1.2;
         text-transform: uppercase;
@@ -42147,23 +42147,23 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         p.u-large-text
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         font-size: 1.25rem;
         line-height: 1.9;
         }
         p:not(.u-text-variant)
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         line-height: 2.0;
         }
         p.u-small-text
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         font-size: 0.875rem;
         }
         .u-btn
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         border-width: 2px;
         border-style: solid;
         background-image: none;
@@ -42174,22 +42174,22 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         blockquote
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         font-style: italic;
         padding-left: 20px;
         border-width: 4px;
         }
         .u-metadata
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         }
         ul:not(.u-unstyled)
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         }
         ol
         {
-        font-family: 'PT Sans',sans-serif;
+        font-family: 'Maven Pro';
         }
         .u-post-content
         {
@@ -42344,6 +42344,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
+  font-family: "Maven Pro";
   margin: -36px 839px 18px 0;
 }
 @media (max-width: 1199px) {
